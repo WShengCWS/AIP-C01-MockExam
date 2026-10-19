@@ -2,12 +2,11 @@
 
 A single-file, offline practice exam for the **AWS Certified Generative AI Developer – Professional (AIP-C01)** certification. 161 scenario-based questions with explanations, per-question tips, and progress tracking. No build step, no dependencies, no server.
 
-## Quick start
+## Live demo
 
-1. Download `AIP-C01_Practice_Exam.html`.
-2. Open it in any modern browser.
+**[Open the practice exam](https://YOUR-USERNAME.github.io/YOUR-REPO/)**
 
-To host it, enable **GitHub Pages** (Settings → Pages) and serve the file, or rename it to `index.html`.
+Runs in your browser. Nothing to install or download.
 
 ## Features
 
@@ -23,7 +22,7 @@ To host it, enable **GitHub Pages** (Settings → Pages) and serve the file, or 
 
 ## Data and privacy
 
-Everything runs locally in your browser. Progress, bookmarks, history and settings are stored in `localStorage`, so nothing is sent anywhere. Clearing site data erases your progress, so use **History → Export backup** first and **Import backup** to restore it.
+Everything runs locally in your browser, even on the hosted page. Progress, bookmarks, history and settings are stored in `localStorage`, so nothing is sent anywhere. Clearing site data erases your progress, so use **History → Export backup** first and **Import backup** to restore it.
 
 ## Project structure
 
